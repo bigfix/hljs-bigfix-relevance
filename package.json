@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/briangreenery/hljs-bigfix-relevance.git"
+    "url": "https://github.com/bigfix/hljs-bigfix-relevance.git"
   },
   "keywords": [
     "highlight.js",
     "bigfix",
     "relevance"
   ],
-  "author": "Brian Green",
-  "license": "MIT",
+  "author": "BigFix",
+  "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/briangreenery/hljs-bigfix-relevance/issues"
+    "url": "https://github.com/bigfix/hljs-bigfix-relevance/issues"
   },
-  "homepage": "https://github.com/briangreenery/hljs-bigfix-relevance",
+  "homepage": "https://github.com/bigfix/hljs-bigfix-relevance",
   "devDependencies": {
     "highlight.js": "^8.4.0"
   }
