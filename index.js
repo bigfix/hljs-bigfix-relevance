@@ -1,3 +1,5 @@
+'use strict';
+
 module.exports = function(hljs) {
   function longestFirst(a, b) {
     return b.length - a.length;
